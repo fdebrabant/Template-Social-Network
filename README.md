@@ -1,16 +1,18 @@
 # Template-Social-Network
 
-[Template-Social-Network](file:///C:/Users/Work/Documents/GitHub/Template-Social-Network/index.html) is a social network theme responsive inspired by a tutorial of [Grafikart](https://www.grafikart.fr/) for mastering HTML/CSS. This theme contains multiples sections like a navbar, a main with posts of images and texts, a content aside with card profile and friends suggestions.
+[Template-Social-Network](https://fdebrabant.github.io/template-social-network/) is a social network theme responsive inspired by a tutorial of [Grafikart](https://www.grafikart.fr/) for mastering HTML/CSS. This theme contains multiples sections like a navbar, a main with posts of images and texts, a content aside with card profile and friends suggestions.
 
 ## Preview
 
+[Live Preview](https://fdebrabant.github.io/template-social-network/)
+
 Desktop version:
 
-[![Resume Preview](screenshottemplatesocialnetwork.PNG)](https://github.com/fdebrabant/Template-Social-Network)
+[![Resume Preview](screenshottemplatesocialnetwork.PNG)](https://fdebrabant.github.io/template-social-network/)
 
 Mobile version:
 
-[![Resume Preview](screenshottemplatesocialnetworkresp.PNG)](https://github.com/fdebrabant/Template-Social-Network)
+[![Resume Preview](screenshottemplatesocialnetworkresp.PNG)](https://fdebrabant.github.io/template-social-network/)
 
 ## Download and Installation
 

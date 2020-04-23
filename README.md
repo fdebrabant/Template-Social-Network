@@ -6,11 +6,11 @@
 
 Desktop version:
 
-[![Resume Preview](screenshottemplatesocialnetwork.png)](https://github.com/fdebrabant/Template-Social-Network)
+[![Resume Preview](screenshottemplatesocialnetwork.PNG)](https://github.com/fdebrabant/Template-Social-Network)
 
 Mobile version:
 
-[![Resume Preview](screenshottemplatesocialnetworkresp.png)](https://github.com/fdebrabant/Template-Social-Network)
+[![Resume Preview](screenshottemplatesocialnetworkresp.PNG)](https://github.com/fdebrabant/Template-Social-Network)
 
 ## Download and Installation
 
